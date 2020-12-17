@@ -1,2 +1,2 @@
-# PriyaCodingCompetitive
-All the codes done as part of competitive programing.
+# coding_practice
+This repository contains some useful codes, techniques, algorithms and problem solutions helpful in Competitive Coding. 
